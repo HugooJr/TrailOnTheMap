@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrailOnTheMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_position">Enables the location</string>
+
+    <!--Util resources for the configuration of a window dialog-->
+    <string name="alert_dialog_title">Do you want to enable GPS?</string>
+    <string name="alert_dialog_description">This app needs to use the GPS\'s service. Enable it.</string>
+    <string name="alert_dialog_accept">Enable</string>
+    <string name="alert_dialog_deny">Ignore</string>
+
+</resources>
